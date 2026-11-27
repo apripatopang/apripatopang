@@ -52,3 +52,10 @@ I use GitHub to document my learning journey, manage projects, and collaborate o
 ---
 
 *Building, learning, and improving every day.* 🚀
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apripatopang&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apripatopang&layout=compact&theme=tokyonight&hide_border=true)
